@@ -3365,10 +3365,9 @@
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
-				border: solid 3px rgba(255, 165, 0, 0.5);
-				color: #ffa500;
+				border: solid 3px rgba(148, 153, 155, 0.5);
+				color: #ffffff;
 				display: inline-block;
-				font-size: 1.4em;
 				font-weight: 700;
 				line-height: 2.25em;
 				margin: -1.25em 0 0 -3em;
@@ -3412,6 +3411,7 @@
 			.image.thumb:hover > .live:after,
 			.image.thumb:hover > .ghonly:after {
 				opacity: 1.0;
+				transition: background-color 0.15s ease-in;
 			}
 
 			.image.thumb:hover:before,
