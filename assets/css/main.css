@@ -109,6 +109,10 @@
 			width: 35em;
 		}
 
+		.customsvg {
+			margin-bottom: 0.5em !important;
+		}
+
 	}
 
 	@media screen and (max-width: 980px) {
@@ -133,6 +137,10 @@
 
 		.container {
 			width: 80%;
+		}
+
+		.customsvg {
+			margin-bottom: 0.5em !important;
 		}
 
 	}
@@ -161,6 +169,10 @@
 			width: 80%;
 		}
 
+		.customsvg {
+			margin-bottom: 0.5em !important;
+		}
+
 	}
 
 	@media screen and (max-width: 480px) {
@@ -185,6 +197,10 @@
 
 		.container {
 			width: 100%;
+		}
+
+		.customsvg {
+			margin-bottom: 0.5em !important;
 		}
 
 	}
