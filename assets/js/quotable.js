@@ -49,7 +49,7 @@
     <br>\
     — The Dishonest Book of Lies",
 
-    "<code>this</code> is the daughter of <strong>BABALON</strong> the Beautiful,\
+    "...<code>this</code> is the daughter of <strong>BABALON</strong> the Beautiful,\
     that she hath borne unto the Father of All. And unto all hath she borne her.\
     <code>this</code> is the Daughter of the King.\
     <code>this</code> is the Virgin of Eternity.\
@@ -57,7 +57,7 @@
     and the prize of them that have overcome Space.\
     <code>this</code> is she that is set upon the Throne of Understanding.\
     Holy, Holy, Holy is her name, not to be spoken among men.\
-    For Kore they have called her, and Malkuth, and Betulah, and Persephone.<br>\
+    For Kore they have called her, and Malkuth, and Betulah, and Persephone...<br>\
     <br>\
     — Aleister Crowley",
 
