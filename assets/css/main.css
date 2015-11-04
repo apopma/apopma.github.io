@@ -173,6 +173,16 @@
 			margin-bottom: 0.5em !important;
 		}
 
+		#footer .container {
+			border-bottom-left-radius: 12em 2em !important;
+			border-bottom-right-radius: 12em 2em !important;
+		}
+
+		#one .container {
+			border-top-left-radius: 12em 2em;
+			border-top-right-radius: 12em 2em;
+		}
+
 	}
 
 	@media screen and (max-width: 480px) {
@@ -201,6 +211,10 @@
 
 		.customsvg {
 			margin-bottom: 0.5em !important;
+		}
+
+		#footer .icon::before {
+			font-size: 1.2em !important;
 		}
 
 	}
@@ -2645,7 +2659,7 @@
 
 		.main .container {
 			padding: 5em 2.5em 8em 2.5em ;
-			background: rgba(255, 255, 255, 0.95);
+			background: rgba(255, 255, 255, 0.93);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
@@ -2749,6 +2763,8 @@
 			margin-left: -17.5em;
 			padding: 2.5em;
 			position: absolute;
+			border-top-left-radius: 12em 4em;
+			border-top-right-radius: 12em 4em;
 		}
 
 			#header .container > :last-child {
@@ -2772,6 +2788,8 @@
 			padding: 5em 2.5em 3em 2.5em ;
 			background: rgba(255, 255, 255, 0.95);
 			box-shadow: inset 0 1px 0 0 #dddddd;
+			border-bottom-left-radius: 12em 4em;
+			border-bottom-right-radius: 12em 4em;
 		}
 
 		#footer footer {
